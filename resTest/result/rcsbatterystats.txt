@@ -1,0 +1,94 @@
+Daily stats:
+  Current start time: 2017-09-19-05-00-31
+  Next min deadline: 2017-09-20-01-00-00
+  Next max deadline: 2017-09-20-03-00-00
+  Current daily steps:
+    Discharge total time: 4d 21h 3m 32s 900ms  (from 4 steps)
+    Discharge screen off time: 7d 4h 39m 19s 400ms  (from 2 steps)
+    Discharge screen off device idle time: 13d 20h 36m 47s 600ms  (from 1 steps)
+  Daily from 2017-09-18-05-29-35 to 2017-09-19-05-00-31:
+    Discharge total time: 7d 13h 34m 43s 200ms  (from 7 steps)
+    Discharge screen off time: 8d 16h 3m 45s 600ms  (from 6 steps)
+    Discharge screen off device idle time: 8d 16h 3m 45s 600ms  (from 6 steps)
+    Charge total time: 2h 50m 52s 500ms  (from 82 steps)
+    Charge screen off time: 2h 50m 52s 500ms  (from 82 steps)
+  Daily from 2017-09-17-05-00-20 to 2017-09-18-05-29-35:
+    Discharge total time: 8d 15h 19m 15s 900ms  (from 10 steps)
+    Discharge screen off time: 8d 15h 19m 15s 900ms  (from 10 steps)
+    Discharge screen off device idle time: 8d 15h 19m 15s 900ms  (from 10 steps)
+  Daily from 2017-09-16-05-09-37 to 2017-09-17-05-00-20:
+    Discharge total time: 4d 21h 35m 0s 600ms  (from 18 steps)
+    Discharge screen off time: 10d 19h 56m 55s 500ms  (from 7 steps)
+    Discharge screen off device idle time: 8d 23h 6m 6s 400ms  (from 3 steps)
+    Discharge screen on time: 4h 55m 9s 500ms  (from 7 steps)
+  Daily from 2017-09-15-04-09-36 to 2017-09-16-05-09-37:
+    Discharge total time: 13d 0h 9m 9s 700ms  (from 7 steps)
+    Discharge screen off time: 13d 0h 9m 9s 700ms  (from 7 steps)
+    Discharge screen off device idle time: 13d 0h 9m 9s 700ms  (from 7 steps)
+  Daily from 2017-09-14-05-04-30 to 2017-09-15-04-09-36:
+    Discharge total time: 12d 8h 25m 59s 100ms  (from 7 steps)
+    Discharge screen off time: 12d 8h 25m 59s 100ms  (from 7 steps)
+    Discharge screen off device idle time: 12d 8h 25m 59s 100ms  (from 7 steps)
+  Daily from 2017-09-13-03-34-30 to 2017-09-14-05-04-30:
+    Discharge total time: 9d 1h 49m 17s 800ms  (from 10 steps)
+    Discharge screen off time: 9d 1h 49m 17s 800ms  (from 10 steps)
+    Discharge screen off device idle time: 9d 1h 49m 17s 800ms  (from 10 steps)
+  Daily from 2017-09-12-03-43-44 to 2017-09-13-03-34-30:
+    Discharge total time: 10d 14h 15m 0s 500ms  (from 8 steps)
+    Discharge screen off time: 10d 16h 53m 36s 400ms  (from 7 steps)
+    Discharge screen off device idle time: 10d 12h 55m 0s 800ms  (from 6 steps)
+  Daily from 2017-09-11-03-07-51 to 2017-09-12-03-43-44:
+    Discharge total time: 21h 15m 52s 100ms  (from 79 steps)
+    Discharge screen off time: 19h 32m 53s 300ms  (from 78 steps)
+    Discharge screen off device idle time: 19h 47m 28s 200ms  (from 73 steps)
+    Charge total time: 1h 58m 45s 200ms  (from 73 steps)
+    Charge screen off time: 1h 51m 50s 300ms  (from 70 steps)
+  Daily from 2017-09-10-22-13-11 to 2017-09-11-03-07-51:
+    Discharge total time: 18h 55m 48s 200ms  (from 24 steps)
+    Discharge screen off time: 18h 55m 48s 200ms  (from 24 steps)
+    Discharge screen off device idle time: 20h 25m 8s 100ms  (from 17 steps)
+  Daily from 2017-09-09-03-08-08 to 2017-09-10-22-13-11:
+    Discharge total time: 16h 47m 14s 500ms  (from 88 steps)
+    Discharge screen off time: 15h 24m 14s 800ms  (from 87 steps)
+    Discharge screen off device idle time: 15h 38m 30s 900ms  (from 79 steps)
+    Charge total time: 3h 0m 9s 800ms  (from 85 steps)
+    Charge screen off time: 2h 59m 20s 600ms  (from 84 steps)
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 56s 388ms realtime, 56s 388ms uptime
+  Start clock time: 2017-09-19-15-48-05
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  WiFi Idle time: 0ms (--%)
+  WiFi Rx time:   0ms (--%)
+  WiFi Tx time:   0ms (--%)
+  WiFi Power drain: 0mAh
+  Bluetooth Idle time: 0ms (--%)
+  Bluetooth Rx time:   0ms (--%)
+  Bluetooth Tx time:   0ms (--%)
+  Bluetooth Power drain: 0mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  1000:
+    Wake lock *alarm* realtime
+  u0a116:
+    (nothing executed)
+

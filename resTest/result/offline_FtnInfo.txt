@@ -1,0 +1,21 @@
+XTF FtnInfo
+FileCookieID: 3
+FileName: 附件1：魔百和测评方案.pptx
+FileSize: 818472
+FtnUrl: /ftn_handler/3aef1d4cb992ae70a08ee0ddd7fa19cab1b855e3a59aaf113f78aebb274c44a1e4a15923ce008759d06b3b71dfc5fdccbe9e6db584c3894f3bfa1e168833ca4f
+FtnCookie:FTN5K=84c8d54e
+FtnIP: 120.198.201.103
+FtnPort:80
+
+80
+
+2.84.25
+FtnPort:80
+
+0
+
+0
+
+P: 183.232.127.199
+FtnPort:80
+

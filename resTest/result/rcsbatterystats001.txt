@@ -1,0 +1,199 @@
+Daily stats:
+  Current start time: 2017-09-19-05-00-31
+  Next min deadline: 2017-09-20-01-00-00
+  Next max deadline: 2017-09-20-03-00-00
+  Current daily steps:
+    Discharge total time: 4d 21h 3m 32s 900ms  (from 4 steps)
+    Discharge screen off time: 7d 4h 39m 19s 400ms  (from 2 steps)
+    Discharge screen off device idle time: 13d 20h 36m 47s 600ms  (from 1 steps)
+  Daily from 2017-09-18-05-29-35 to 2017-09-19-05-00-31:
+    Discharge total time: 7d 13h 34m 43s 200ms  (from 7 steps)
+    Discharge screen off time: 8d 16h 3m 45s 600ms  (from 6 steps)
+    Discharge screen off device idle time: 8d 16h 3m 45s 600ms  (from 6 steps)
+    Charge total time: 2h 50m 52s 500ms  (from 82 steps)
+    Charge screen off time: 2h 50m 52s 500ms  (from 82 steps)
+  Daily from 2017-09-17-05-00-20 to 2017-09-18-05-29-35:
+    Discharge total time: 8d 15h 19m 15s 900ms  (from 10 steps)
+    Discharge screen off time: 8d 15h 19m 15s 900ms  (from 10 steps)
+    Discharge screen off device idle time: 8d 15h 19m 15s 900ms  (from 10 steps)
+  Daily from 2017-09-16-05-09-37 to 2017-09-17-05-00-20:
+    Discharge total time: 4d 21h 35m 0s 600ms  (from 18 steps)
+    Discharge screen off time: 10d 19h 56m 55s 500ms  (from 7 steps)
+    Discharge screen off device idle time: 8d 23h 6m 6s 400ms  (from 3 steps)
+    Discharge screen on time: 4h 55m 9s 500ms  (from 7 steps)
+  Daily from 2017-09-15-04-09-36 to 2017-09-16-05-09-37:
+    Discharge total time: 13d 0h 9m 9s 700ms  (from 7 steps)
+    Discharge screen off time: 13d 0h 9m 9s 700ms  (from 7 steps)
+    Discharge screen off device idle time: 13d 0h 9m 9s 700ms  (from 7 steps)
+  Daily from 2017-09-14-05-04-30 to 2017-09-15-04-09-36:
+    Discharge total time: 12d 8h 25m 59s 100ms  (from 7 steps)
+    Discharge screen off time: 12d 8h 25m 59s 100ms  (from 7 steps)
+    Discharge screen off device idle time: 12d 8h 25m 59s 100ms  (from 7 steps)
+  Daily from 2017-09-13-03-34-30 to 2017-09-14-05-04-30:
+    Discharge total time: 9d 1h 49m 17s 800ms  (from 10 steps)
+    Discharge screen off time: 9d 1h 49m 17s 800ms  (from 10 steps)
+    Discharge screen off device idle time: 9d 1h 49m 17s 800ms  (from 10 steps)
+  Daily from 2017-09-12-03-43-44 to 2017-09-13-03-34-30:
+    Discharge total time: 10d 14h 15m 0s 500ms  (from 8 steps)
+    Discharge screen off time: 10d 16h 53m 36s 400ms  (from 7 steps)
+    Discharge screen off device idle time: 10d 12h 55m 0s 800ms  (from 6 steps)
+  Daily from 2017-09-11-03-07-51 to 2017-09-12-03-43-44:
+    Discharge total time: 21h 15m 52s 100ms  (from 79 steps)
+    Discharge screen off time: 19h 32m 53s 300ms  (from 78 steps)
+    Discharge screen off device idle time: 19h 47m 28s 200ms  (from 73 steps)
+    Charge total time: 1h 58m 45s 200ms  (from 73 steps)
+    Charge screen off time: 1h 51m 50s 300ms  (from 70 steps)
+  Daily from 2017-09-10-22-13-11 to 2017-09-11-03-07-51:
+    Discharge total time: 18h 55m 48s 200ms  (from 24 steps)
+    Discharge screen off time: 18h 55m 48s 200ms  (from 24 steps)
+    Discharge screen off device idle time: 20h 25m 8s 100ms  (from 17 steps)
+  Daily from 2017-09-09-03-08-08 to 2017-09-10-22-13-11:
+    Discharge total time: 16h 47m 14s 500ms  (from 88 steps)
+    Discharge screen off time: 15h 24m 14s 800ms  (from 87 steps)
+    Discharge screen off device idle time: 15h 38m 30s 900ms  (from 79 steps)
+    Charge total time: 3h 0m 9s 800ms  (from 85 steps)
+    Charge screen off time: 2h 59m 20s 600ms  (from 84 steps)
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 3m 2s 108ms (52.4%) realtime, 3m 2s 107ms (52.4%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 5m 47s 314ms realtime, 5m 47s 314ms uptime
+  Start clock time: 2017-09-19-15-49-43
+  Screen on: 3m 2s 108ms (100.0%) 0x, Interactive: 3m 2s 108ms (100.0%)
+  Screen brightnesses:
+    dim 3m 2s 108ms (100.0%)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels:
+    none 1m 36s 650ms (53.1%) 12x
+    great 1m 25s 458ms (46.9%) 11x
+  Signal scanning time: 0ms
+  Radio types:
+    none 3m 2s 108ms (100.0%) 0x
+  Mobile radio active time: 0ms (0.0%) 0x
+  Wi-Fi total received: 506.11KB, sent: 159.04KB (packets received 893, sent 875)
+  Wifi on: 3m 2s 108ms (100.0%), Wifi running: 3m 2s 108ms (100.0%)
+  Wifi states: (no activity)
+  Wifi supplicant states:
+    completed 3m 2s 108ms (100.0%) 0x
+  Wifi signal levels:
+    level(4) 3m 2s 108ms (100.0%) 0x
+  WiFi Idle time: 0ms (--%)
+  WiFi Rx time:   0ms (--%)
+  WiFi Tx time:   0ms (--%)
+  WiFi Power drain: 0mAh
+  Bluetooth Idle time: 0ms (--%)
+  Bluetooth Rx time:   0ms (--%)
+  Bluetooth Tx time:   0ms (--%)
+  Bluetooth Power drain: 0mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  Estimated power use (mAh):
+    Capacity: 2920, Computed drain: 18.2, actual drain: 0
+    Screen: 10.9
+    Uid 1000: 2.19 ( cpu=2.19 wifi=0.00000230 )
+    Uid u0a116: 1.98 ( cpu=1.87 wifi=0.000261 gps=0.0566 sensor=0.0455 )
+    Uid u0a121: 0.879 ( cpu=0.879 )
+    Uid 0: 0.717 ( cpu=0.717 wifi=0.0000256 )
+    Uid 1036: 0.430 ( cpu=0.430 )
+    Cell standby: 0.387 ( radio=0.387 )
+    Wifi: 0.166 ( cpu=0.0143 wifi=0.152 )
+    Uid 1001: 0.107 ( cpu=0.107 )
+    Uid u0a33: 0.0953 ( cpu=0.0953 )
+    Uid 3011: 0.0572 ( cpu=0.0572 )
+    Uid u0a4: 0.0559 ( cpu=0.0559 )
+    Uid u0a58: 0.0546 ( cpu=0.0546 )
+    Uid u0a97: 0.0331 ( cpu=0.0179 wifi=0.00000033 sensor=0.0152 )
+    Uid u0a133: 0.0331 ( cpu=0.0179 sensor=0.0152 )
+    Uid u0a99: 0.0197 ( cpu=0.00448 sensor=0.0152 )
+    Uid 9999: 0.0148 ( cpu=0.0148 )
+    Uid u0a16: 0.0101 ( cpu=0.0101 )
+    Uid 3005: 0.00985 ( cpu=0.00985 )
+    Uid u0a8: 0.00895 ( cpu=0.00894 wifi=0.00000099 )
+    Uid 1013: 0.00850 ( cpu=0.00850 )
+    Uid u0a19: 0.00492 ( cpu=0.00492 )
+    Uid u0a53: 0.00474 ( cpu=0.00474 )
+    Uid u0a21: 0.00403 ( cpu=0.00403 )
+    Uid u0a26: 0.00273 ( cpu=0.00273 )
+    Uid u0a10: 0.00234 ( cpu=0.00234 )
+    Uid u0a49: 0.00179 ( cpu=0.00179 )
+    Uid u0a17: 0.00134 ( cpu=0.00134 )
+    Uid u0a68: 0.00134 ( cpu=0.00134 )
+    Uid u0a3: 0.00119 ( cpu=0.00119 )
+
+  1000:
+    Wi-Fi network: 1.21KB received, 666B sent (packets 6 received, 8 sent)
+    User activity: 6 other, 2 button, 29 touch
+    Wake lock *alarm* realtime
+    Wake lock eventloop realtime
+    Wake lock GpsLocationProvider realtime
+    Wake lock dispatcher realtime
+    Foreground for: 3m 2s 108ms 
+    Total cpu time: u=30s 250ms s=18s 760ms p=0mAh
+    Proc chargemonitor:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc com.huawei.bd:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.huawei.android.powermonitor:
+      CPU: 100ms usr + 80ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 210ms usr + 220ms krn ; 0ms fg
+    Proc dts_hpx_service:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc mm-pp-dpps:
+      CPU: 20ms usr + 100ms krn ; 0ms fg
+    Proc com.huawei.powergenie:
+      CPU: 40ms usr + 70ms krn ; 0ms fg
+    Proc sensors_qcom:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc com.huawei.android.pushagent.PushService:
+      CPU: 30ms usr + 10ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 680ms usr + 770ms krn ; 0ms fg
+    Proc system:
+      CPU: 3s 940ms usr + 2s 410ms krn ; 0ms fg
+    Proc com.huawei.systemmanager:service:
+      CPU: 300ms usr + 210ms krn ; 0ms fg
+    Proc thermal-daemon:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc com.quicinc.cne.CNEService:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc com.huawei.android.chr:
+      CPU: 50ms usr + 90ms krn ; 0ms fg
+    Apk com.android.settings:
+      Service com.android.settings.deviceinfo.UsbConnectedService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+    Apk com.huawei.systemmanager:
+      Service com.huawei.systemmanager.util.content.HsmIntentService_ui:
+        Created for: 174ms uptime
+        Starts: 1, launches: 1
+    Apk android:
+      Wakeup alarm *walarm*:action.pfw.wakeup.timer: 1 times
+      Wakeup alarm *walarm*:com.huawei.intent.action.PUSH: 1 times
+  u0a116:
+    Wi-Fi network: 495.73KB received, 156.50KB sent (packets 761 received, 829 sent)
+    Wake lock *launch* realtime
+    Sensor GPS: 5s 96ms realtime (1 times)
+    Sensor 1: 3m 2s 108ms realtime (0 times)
+    Foreground activities: 2m 51s 295ms realtime (15 times)
+    Foreground for: 3m 2s 108ms 
+    Total cpu time: u=29s 450ms s=12s 420ms p=0mAh
+    Proc com.chinasofti.rcs:
+      CPU: 0ms usr + 0ms krn ; 30s 700ms fg
+    Apk com.chinasofti.rcs:
+      Service com.example.native_friend_apk_service.service.CoreService:
+        Created for: 1m 1s 134ms uptime
+        Starts: 1, launches: 1
+      Service com.cmcc.sso.service.SsoService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 9
+      Service com.chinasofti.rcs.app.ActivityBlockerService:
+        Created for: 1s 945ms uptime
+        Starts: 5, launches: 5
+
