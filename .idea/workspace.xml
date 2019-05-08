@@ -14,8 +14,8 @@
       <file leaf-file-name="updateRatio.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resTest/updateRatio.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="261">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#15#40#0" expanded="true" />
               </folding>
@@ -128,9 +128,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1307" />
-    <option name="y" value="435" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="796" />
+    <option name="y" value="74" />
     <option name="width" value="1503" />
     <option name="height" value="1236" />
   </component>
@@ -655,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resTest/updateRatio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="261">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#15#40#0" expanded="true" />
           </folding>
