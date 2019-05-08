@@ -10,49 +10,13 @@ import xlwt
 # 2，然后执行本程序，执行前可以调整参数
 # 被测设备的IP地址
 IP_ADDRESS = "192.168.1.149"
-# 被测设备的省份
 CITY_NAME = '江苏'
-# WAIT_TIME测试采样时间间隔(单位s）不能小于5s，TEST_COUNTS测试采样次数,一共执行30分钟（默认设置 10s，180次）
 WAIT_TIME = 10
 TEST_COUNTS = 180
 
 class JiangSuPerformance:
     def __init__(self, d):
         self.d = d
-
-    # 电视盒子比较难统一，该函数不用，手动播放视频即可。
-
-    def playMovie(self):
-        # 回到首页
-        self.d.press("home")
-        # 打开电视机频道
-        self.d(resourceId="com.gitv.launcher:id/tv_center", className="android.widget.CheckedTextView", instance=2).click()
-        #打开 小女花不弃
-        self.d(resourceId="com.galaxyitv.video:id/gridItemImg", className="android.widget.ImageView", instance=1).click()
-
-        # self.d.implicitly_wait(10.0)
-        # self.d(resourceId="com.gitv.launcher:id/iv_one", className="android.widget.ImageView", instance=1).click()
-        # print("wait timeout", self.d.implicitly_wait())
-        # 此种获取CPU的方法不好解释。
-
-    def getCpu(self):
-        print("获取魔百和cpu占用")
-        global CPU
-        command = "adb shell top -n 1 -m 10 -d 1"
-        cpu = 0
-        cpu1 = []
-        output = os.popen(command)
-        i = 1
-        for line in output.readlines():
-            if "User" in line:
-                print(line)
-                cpuTemp = line.split()
-                while i < len(cpuTemp):
-                    cpu += int(cpuTemp[i].split("%")[0])
-                    i += 2
-                break
-        print(cpu)
-
     def getMacAddress(self):
         command = "adb shell cat /sys/class/net/eth0/address"
         output = os.popen(command)
@@ -83,7 +47,6 @@ class JiangSuPerformance:
                 ram = line.split()[2]
                 # print(ramTemp)
                 return ram
-
 
 def timeStyle(timestamp):
     time_Now = int(timestamp)
@@ -125,5 +88,3 @@ if __name__ == '__main__':
         # myeddut = time.time() - st
         k += 1
     book.save('./updateResult'+ CITY_NAME + str(timeTemp) + '.xls')
-
-
